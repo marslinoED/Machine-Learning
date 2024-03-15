@@ -1,3 +1,3 @@
 # Face Detection
-<img src="FaceDetection.gif" alt="Alt Text">
+<img src="Videos/FaceDetection.gif" alt="Alt Text">
 
